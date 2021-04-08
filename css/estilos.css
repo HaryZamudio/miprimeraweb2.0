@@ -1,0 +1,28 @@
+.logo img {
+    width: 50%;
+    padding: 1% 2% 1% 5%;
+
+}
+.menu{
+    background-color:black
+}
+.footer{
+    background: salmon;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+
+.color-texto{
+    color: black;
+}
+.img{
+    width: 60%;
+    height: auto;
+}
+.imgf{
+    width: 50%;
+    height:auto;
+}
